@@ -1,0 +1,165 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 240, 220);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.navbar-custom {
+    background-color: #00098b;
+    padding-bottom: 0%;
+    
+}
+.navbar-custom .navbar-nav .nav-link {
+    color: #f2f2f2;
+}
+.navbar-custom .navbar-nav .nav-link:hover {
+    color: #04AA6D;
+}
+.navbar-custom .navbar-nav .active > .nav-link {
+    color: white;
+    background-color: #04AA6D;
+}
+.content {
+    padding: 20px;
+}
+.navbar-text {
+    color: rgb(255, 81, 0);
+    font-size: 80%;
+    height: 35px;
+}
+#bt-login {
+    border-radius: 10px;
+    background-color: rgb(255, 81, 0);
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 80%;
+}
+strong {
+    font-size: 130%;
+    color: #ff9b68;
+    background-color: white;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: #ff9b68;
+    padding-top: 60px;
+}
+#welcome-text {
+    text-align: justify;
+    border-radius: 10px;
+    background-color: rgb(255, 81, 0);
+    color: white;
+    font-size: 110%;
+    padding: 10px;
+}
+h2 {
+    color: #ff9b68;
+    font-weight: bold;
+    text-align: center;
+}
+.card-body {
+    background-color: rgb(255, 81, 0);
+    border-radius: 15px;
+    color: whitesmoke;
+    font-weight:bolder;
+    font-size: 110%;
+    text-align: justify;
+    padding: 20px;
+    width: 300px;
+    height: 200px;
+}
+h6 {
+    color: whitesmoke;
+    font-weight: bold;
+}
+.row {
+    padding-bottom: 60px;
+}
+table {
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(255, 81, 0);
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td {
+    padding-right: 30px;
+}
+#goolagoon {
+    border-radius: 10px;
+    width: 1073px;
+    height: 376px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bt-youtube {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    border-style: hidden;
+    width: 50%;
+}
+.profile {
+    text-align: center;
+    width: 500px;
+    height: 550px;
+}
+.card {
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-profile {
+    width: 300px;
+    height: 300px;
+}
+.card-text {
+    text-align: justify;
+}
+
+.footer{
+    background-color: #00098b;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  color: #ff9b68;
+  text-align: center;
+  top: 10px;
+  margin-top: auto;
+}
+
+.MCIstvan_card{
+    display:flex ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+.container_login { 
+    margin: auto;
+  width: 50%;
+  padding: 30px;
+  text-align: center;
+
+  
+}
+
+form{
+background-color: url();
+}
+
+.login_input{
+   border-radius: 100px;
+}
+
+.login_button{
+    border-radius: 100px;
+}
+
+
